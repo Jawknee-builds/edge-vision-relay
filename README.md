@@ -1,5 +1,6 @@
 # Edge Vision Relay
 
+[![Live on Vercel](https://img.shields.io/badge/Live_Demo-edge--vision--relay.vercel.app-10B981?style=flat-square&logo=vercel)](https://edge-vision-relay.vercel.app)
 [![CI](https://github.com/Jawknee-builds/edge-vision-relay/actions/workflows/ci.yml/badge.svg)](https://github.com/Jawknee-builds/edge-vision-relay/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue?style=flat-square)](https://www.python.org/)
 [![Hardware](https://img.shields.io/badge/target_hardware-RPi_4_·_Kneron_KL520-green?style=flat-square)](https://github.com/Jawknee-builds/edge-vision-relay)
